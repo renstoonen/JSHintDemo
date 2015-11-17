@@ -1,0 +1,10 @@
+{
+  "name": "JSHintDemo",
+  "description": "learn to JSHint",
+  "author": "fos",
+  "version": "0.0.1",
+  "devDependencies": {},
+  "dependencies": {
+    "jshint": "^2.8.0"
+  }
+}
