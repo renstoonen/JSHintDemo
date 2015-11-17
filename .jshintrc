@@ -1,0 +1,10 @@
+{
+  //undefined variables
+  "undef": true,
+  //unused variables
+  "unused": true,
+  //takes care of the globals like window and console
+  "browser": true,
+  "devel": true,
+  "curly": true
+}
